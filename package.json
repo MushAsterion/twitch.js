@@ -1,0 +1,19 @@
+{
+  "name": "twitch.js",
+  "version": "1.0.0",
+  "description": "A very basic module to make calls to latest Twitch API.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MushAsterion/twitch.js.git"
+  },
+  "author": "Lucas Petitjean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MushAsterion/twitch.js/issues"
+  },
+  "homepage": "https://github.com/MushAsterion/twitch.js#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
